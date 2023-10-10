@@ -1,2 +1,3 @@
 # House-Renting-System
-House Renting System is developed using HTML, CSS, JavaScript, and PHP which can help people view the overall apartments, outdoor, kitchen, bathroom, amenities including photos and description. Client-side technologies: HTML, CSS, Javascript. Server-side technologies: PHP. Database management: MYSQL.
+Implemented a web-based application using HTML5, CSS3, PHP, Google Fonts(converting ”ttf” files to compreseed ”woff/woff2”) for browser support and performance optimization utilizing different functions and event listeners using JavaScript. Designed visually appealing pages with an animated navigation bar using the active link concept for improved user interaction. Implemented a common footer page using PHP’s include feature for code redundancy across multiple pages. Utilized PHP for server-side scripting and validations with phpMyAdmin for database management and XAMPP server
+for local deployments.
